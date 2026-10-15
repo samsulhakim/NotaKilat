@@ -1,0 +1,6 @@
+{
+  "name": "NotaKilat - Pembuat Nota & Kirim WhatsApp",
+  "description": "Aplikasi kasir & pembuat nota digital praktis untuk cetak struk thermal/A4 dan kirim instan ke WhatsApp pelanggan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
